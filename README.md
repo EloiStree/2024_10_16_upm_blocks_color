@@ -13,5 +13,7 @@ J’ai donc créé cet outil pour le prototypage dans mon projet et je l’utili
 [https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/)
 
 Il s’agit essentiellement de matériaux basés sur les couleurs de l’application :
-![BlocksColor](https://github.com/user-attachments/assets/85ea46e8-e6a4-46e9-8c37-ae562ab21334) <img width="478" height="489" alt="image" src="https://github.com/user-attachments/assets/aa38668b-6db0-47db-8660-1c418671555d" /> <img width="595" height="794" alt="image" src="https://github.com/user-attachments/assets/0ccb34e9-246d-4403-b0ce-c8ede6c5cffe" />
+![BlocksColor](https://github.com/user-attachments/assets/85ea46e8-e6a4-46e9-8c37-ae562ab21334) 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/aa38668b-6db0-47db-8660-1c418671555d" />  
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0ccb34e9-246d-4403-b0ce-c8ede6c5cffe" />  
 
