@@ -1,3 +1,8 @@
+
+```
+git submodule add https://github.com/EloiStree/2024_10_16_upm_blocks_color.git  Packages/2024_10_16_upm_blocks_color
+```
+
 # Blocks Color
 
 [Open Blocks](https://github.com/EloiStree/HelloPaintingJam/issues/23) is a 3D VR application for creating low-poly assets.    
