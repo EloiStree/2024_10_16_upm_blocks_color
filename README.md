@@ -1,18 +1,18 @@
-
 # Blocks Color
 
-Open Blocks est une application VR 3D permettant de créer des objets low poly.
-Ce que j’aimais dans cet outil, lorsqu’il était possible de publier des assets sur leurs serveurs :
-l’uniformité des assets.
+Open Blocks is a 3D VR application for creating low-poly assets.
+What I liked about this tool, when it was still possible to publish assets on their servers, was the consistency of the assets.
 
-J’ai donc créé cet outil pour le prototypage dans mon projet et je l’utilise avec ProBuilder.
+So I created this tool for prototyping in my project, and I use it with ProBuilder.
 
-**Trouvez l’application Open Blocks [ici](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/) :**  
+**Find the Open Blocks application [here](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/) :**
 [<img width="963" height="651" alt="image" src="https://github.com/user-attachments/assets/c3de8127-70d2-466a-a16e-c87db8dce974" />
 ](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/8043509915705378/?srsltid=AfmBOoqfParvb3vrhQg7P3M_wGSR31sXg7NLTsdZlGrJxoaDZbPErLq6)
 [https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/)
 
-Il s’agit essentiellement de matériaux basés sur les couleurs de l’application :   
-| | | |
-|-|-|-|
-| <img width="256" height="256" src="https://github.com/user-attachments/assets/51bb29ff-c178-46a3-9240-7bb46e581965" /> | <img width="256" height="256" src="https://github.com/user-attachments/assets/aa38668b-6db0-47db-8660-1c418671555d" /> | <img width="256" height="256" src="https://github.com/user-attachments/assets/0ccb34e9-246d-4403-b0ce-c8ede6c5cffe" /> |
+It is basically a set of materials based on the colors from the application:
+
+|                                                                                                                        |                                                                                                                        |                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| <img width="256" height="256" src="https://github.com/user-attachments/assets/51bb29ff-c178-46a3-9240-7bb46e581965" /> | <img width="256" height="256" src="https://github.com/user-attachments/assets/aa38668b-6db0-47db-8660-1c418671555d" /> | <img width="256" height="256" src="https://github.com/user-attachments/assets/0ccb34e9-246d-4403-b0ce-c8ede6c5c3ffe" /> |
+
