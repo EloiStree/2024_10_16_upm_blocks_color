@@ -7,7 +7,7 @@ l’uniformité des assets.
 
 J’ai donc créé cet outil pour le prototypage dans mon projet et je l’utilise avec ProBuilder.
 
-Trouvez l’application Open Blocks [ici](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/) :
+**Trouvez l’application Open Blocks [ici](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/) :**  
 [<img width="1474" height="680" alt="image" src="https://github.com/user-attachments/assets/584a5672-2ae3-4120-91d0-5463cfdf2c29" />](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/8043509915705378/?srsltid=AfmBOoqfParvb3vrhQg7P3M_wGSR31sXg7NLTsdZlGrJxoaDZbPErLq6)
 [https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/](https://www.meta.com/fr-fr/experiences/open-blocks-low-poly-3d-modelling/)
 
