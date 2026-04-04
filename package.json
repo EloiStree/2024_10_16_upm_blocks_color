@@ -1,9 +1,9 @@
 {
   "name": "be.elab.blockscolor",
   "displayName": "\ud83e\uddf0,core: Blocks Color",
-  "version": "0.0.1",
+  "version": "2026.4.4",
   "unity": "2018.1",
-  "description": "Blocks color",
+  "description": "Material representing as Lit/Unlit Open Blocks color for protyping level.",
   "keywords": [
     "Script",
     "Tool"
