@@ -1,3 +1,4 @@
+Version Godot: https://github.com/EloiStree/2024_10_16_gdp_blocks_color
 
 ```
 git submodule add https://github.com/EloiStree/2024_10_16_upm_blocks_color.git  Packages/2024_10_16_upm_blocks_color
